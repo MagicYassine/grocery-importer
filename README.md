@@ -1,4 +1,4 @@
-# serverside-test
+# Jsoup scrape grocery information from site
 
 For this exercise developed a Java Webservice application that scrapes the Sainsbury’s grocery site’s - Berries, Cherries, Currants page and returns a JSON array of all the products on the page.
 We are looking:
