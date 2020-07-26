@@ -9,10 +9,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.serverside.test</groupId>
-	<artifactId>serverside-test-application</artifactId>
+	<artifactId>grocery-serverside-importer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>serverside-test-application</name>
-	<description>Server Side Test Project for Spring Boot</description>
+	<name>grocery-importer-application</name>
+	<description>Grocery Importer Project for Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
